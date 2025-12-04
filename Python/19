@@ -1,0 +1,5 @@
+def max_product(arr):
+    arr.sort()
+    return max(arr[0]*arr[1], arr[-1]*arr[-2])
+
+print(max_product([1,10,2,6,5,3]))  # 60
