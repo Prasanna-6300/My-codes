@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prasanna-6300/My-codes/tree/master/0179-largest-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Prasanna-6300/My-codes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prasanna-6300/My-codes/tree/master/0179-largest-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Prasanna-6300/My-codes/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
@@ -24,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Prasanna-6300/My-codes/tree/master/0179-largest-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Prasanna-6300/My-codes/tree/master/1578-minimum-time-to-make-rope-colorful) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Prasanna-6300/My-codes/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
